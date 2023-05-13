@@ -1,5 +1,7 @@
 # All-DSA-Sheets
 
+A repository that contains all popular dsa sheets
+
 | S.No | Sheet Name | Sheet Link | 
 | ---- | ---------- | ---------- | 
 | 1    | Striver DSA sheet | https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/ |
